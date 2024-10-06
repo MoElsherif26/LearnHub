@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "VpewSTVykoAnYkbsOTjohB9SPodHLGhA2FcsAgEa8n4=",
+  "Source": "LearnHub.API",
+  "BasePath": "_content/LearnHub.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LearnHub.API\\wwwroot",
+      "Source": "LearnHub.API",
+      "ContentRoot": "D:\\FCAI\\Graduation Project\\p\\local and cloud\\LearnHub-main\\LearnHub.API\\wwwroot\\",
+      "BasePath": "_content/LearnHub.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
